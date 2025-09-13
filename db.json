@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Jasmin Fathima",
+      "age": 19,
+      "city": "Namakkal"
+    },
+    {
+      "id": "2",
+      "name": "Anees ",
+      "age": 18,
+      "city": "chennai"
+    },
+    {
+      "id": "3",
+      "name": "Harish",
+      "age": 17,
+      "city": "Rasipuram"
+    },
+    {
+      "id": "4",
+      "name": "yogesh",
+      "age": 20,
+      "city": "Pettai"
+    },
+    {
+      "id": "5",
+      "name": "Mohamed",
+      "age": 47,
+      "city": "Salem"
+    },
+    {
+      "id": "6",
+      "name": "Chandhru",
+      "age": 18,
+      "city": "Goa"
+    },
+    {
+      "id": "7",
+      "name": "Brown",
+      "age": 87,
+      "city": "Delhi"
+    },
+    {
+      "id": "9",
+      "name": "John",
+      "age": 47,
+      "city": "Kanchipuram"
+    },
+    {
+      "id": "10",
+      "name": "Sameera",
+      "age": 27,
+      "city": "Vilupuram"
+    },
+    {
+      "id": "11",
+      "name": "Yasmin",
+      "age": 89,
+      "city": "Madurai"
+    },
+    {
+      "id": "12",
+      "name": "Yameera",
+      "age": 57,
+      "city": "Thiruchy"
+    },
+    {
+      "id": "13",
+      "name": "Saniya",
+      "age": 97,
+      "city": "Thirupur"
+    },
+    {
+      "id": "14",
+      "name": "Sajitha",
+      "age": 67,
+      "city": "Erode"
+    },
+    {
+      "id": "15",
+      "name": "meera",
+      "age": 29,
+      "city": "singalanthapuram"
+    },
+    {
+      "name": "fathima",
+      "age": "25",
+      "city": "rasipuram",
+      "id": "8d29"
+    }
+  ]
+}
